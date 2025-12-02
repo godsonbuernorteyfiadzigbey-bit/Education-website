@@ -1,0 +1,9 @@
+body{margin:0;font-family:Arial,sans-serif;}
+.topnav{overflow:hidden;background:#333;}
+.topnav a{float:left;color:#fff;padding:14px 16px;text-decoration:none;}
+.topnav a:hover{background:#ddd;color:#000;}
+header,section,footer{padding:20px;}
+footer{background:#222;color:#fff;text-align:center;margin-top:40px;}
+table{border-collapse:collapse;width:100%;margin-top:20px;}
+table,th,td{border:1px solid #555;}
+th,td{padding:10px;text-align:left;}
